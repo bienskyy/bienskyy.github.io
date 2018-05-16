@@ -1,0 +1,59 @@
+.btn-primary{
+    background-color: #8dc63f;
+    border-color: #8dc63f;
+}
+
+.btn-primary:hover{
+    background-color: #eee;
+    border-color: #eee;
+    color:#8dc63f;
+}
+
+.separator_auto{
+    width:85px;
+    height:2px;
+    margin:20px auto;
+    background: #8dc63f;
+}
+
+.separator_left{
+    width:85px;
+    height:2px;
+    margin:20px 0px;
+    background: #8dc63f;
+}
+
+.separator_small{
+    width:30px;
+    height:2px;
+    margin:20px 0px;
+    background: #8dc63f;
+}
+
+.ab_head .ab_head_icon .icofont,
+.ab_head .ab_head_icon .icon{
+    background-color: #8dc63f;
+    color:#fff;
+    box-shadow: 0px 0px 0px 6px rgba(184, 236, 111, 1);
+}
+
+#loading{
+    background-color: #8dc63f;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    margin-top: 0px;
+    top: 0px;
+    left:0;
+    z-index: 9999;
+}
+
+.cbrand_item img{
+	width: 75%;
+    height: 65px;
+}
+
+.widget_socail ul li a:hover i{
+    background-color: #8dc63f;
+}
